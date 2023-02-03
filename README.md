@@ -7,19 +7,19 @@ Recursive functon have two 2 things in common
 1.Base Conditions(where function execution has to stop)
 2.Divide and Conquer pattern
 
-#Question
+Question
 Big O of recursive functions? (understanding time and space complexity of recursive functions)
 
-#Question
+Question
 Use of Recurive Functions?
 
-#Question
+Question
 Master Theorem?
 
-#Question
+Question
 Recursive call stack memory?
 
-#Exercises Done:
+Exercises Done:
 (Level-01)
 1.Fibonacci series
 2.Print 1 to N
